@@ -1,0 +1,3 @@
+/Users/ojima/Desktop/Homework4/build/CMakeFiles/rebuild_cache.dir
+/Users/ojima/Desktop/Homework4/build/CMakeFiles/edit_cache.dir
+/Users/ojima/Desktop/Homework4/build/CMakeFiles/main.dir

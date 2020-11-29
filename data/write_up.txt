@@ -1,0 +1,10 @@
+Running times of the different topology:
+
+    Client-Server Topology: 0.997512 seconds
+    Ring Topology: 0.798317 seconds
+    Complex-Network Topology: 2.37494 seconds
+
+These running times makes sense because in the Client-Server topology, there are generaly a few hops from origin to destination with a fixed latency between each router
+The Ring topology has hops that have a lower latency than the rest of the other topologies hence accounting for the lower running time.
+The complex-Network topology has more hops with a more costly latency in the forwarding table which accounts for its high running time.
+The size of the row in the forwarding table also increases delay time in figuring out the next hop from a current router.
